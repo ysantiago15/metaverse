@@ -1,0 +1,23 @@
+@media screen and (min-width:768px) and (max-width:991px) {
+    .optionsMenu{
+        /* display: none; */
+    }
+
+    .menu-rayas {
+        /* display: block; */
+    }
+    
+    .barra-menu {
+        justify-content: space-between;
+        padding: 0px 30px;
+    }
+
+    .sectionOne {
+        /* justify-content: center; */
+    }
+
+    .btns-sectionOne {
+        /* width: 100%; */
+        /* justify-content: center; */
+    }
+}

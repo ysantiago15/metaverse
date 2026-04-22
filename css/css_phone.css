@@ -1,0 +1,104 @@
+@media screen and (max-width: 576px)  {
+    .optionsMenu{
+        display: none;
+    }
+
+    .menu-rayas {
+        display: block;
+    }
+
+     .barra-menu {
+        justify-content: space-between;
+        padding: 0px 30px;
+    }
+
+    .sectionOne {
+        flex-direction: column-reverse;
+        padding-left: 0;
+
+    }
+
+    .data-flotante1 {
+        position: absolute;
+        top: 17%;
+        left: 7%;
+    }
+
+      .data-flotante2 {
+        position: absolute;
+        top: 6%;
+        left: 30%;
+    }
+
+      .data-flotante3 {
+        position: absolute;
+        top: 12%;
+        right: 5%;
+    }
+
+    .sectionOne-text {
+        width: 80%;
+        text-align: center;
+    }
+
+    .sectionOne-text h1 {
+        margin-bottom: 0px;
+    }
+
+    .btns-sectionOne {      
+        margin-top: 30px;  
+        justify-content: center;
+    }
+
+    .sectionOne-img {
+        width: 60%;
+        position: relative;
+    }
+
+    .data-sectionOne {
+        /* display: none; */
+    }
+
+    .sectionTwo {
+        flex-direction: column;
+        padding-top: 40px;
+        width: 100%;
+        /* position: relative; */
+    }
+
+    .sectionTwo-img {
+        width: 80%;
+    }
+
+    .sectionTwo-text {
+        width: 80%;
+        margin-top: 20px;
+    }
+
+    .sectionTwo-text h2 {
+        margin-bottom: 15px;
+    }
+
+    .btn-knowMore {
+        margin-top: 20px;
+    }
+
+    .circle1 {
+    width: 40%;
+    height: 200px;
+   left: 6%;
+}
+
+.circle2 {
+    width: 40%;
+    height: 400px;  
+    top: 0;
+}
+
+.circle3 {
+    width: 40%;
+    height: 500px;
+    background: radial-gradient(circle at right, #D10ED1,  transparent 30%);
+    left: 60%;
+}
+}
